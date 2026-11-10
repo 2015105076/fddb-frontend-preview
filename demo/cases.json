@@ -1,0 +1,829 @@
+{
+  "items": [
+    {
+      "voice_id": "DEMO-001",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 30,
+      "gender": "male",
+      "created_at": "2025-01-02",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-002",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 41,
+      "gender": "female",
+      "created_at": "2025-01-03",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-003",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 52,
+      "gender": "male",
+      "created_at": "2025-01-04",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-004",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 63,
+      "gender": "unknown",
+      "created_at": "2025-01-05",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-005",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 74,
+      "gender": "female",
+      "created_at": "2025-01-06",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-006",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 27,
+      "gender": "male",
+      "created_at": "2025-01-07",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-007",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 38,
+      "gender": "female",
+      "created_at": "2025-01-08",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-008",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 49,
+      "gender": "male",
+      "created_at": "2025-01-09",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-009",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 60,
+      "gender": "unknown",
+      "created_at": "2025-01-10",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-010",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 71,
+      "gender": "female",
+      "created_at": "2025-01-11",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-011",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 24,
+      "gender": "male",
+      "created_at": "2025-01-12",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-012",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 35,
+      "gender": "female",
+      "created_at": "2025-02-01",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-013",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": null,
+      "gender": "male",
+      "created_at": "2025-02-02",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-014",
+      "diagnosis_label": "normal",
+      "diagnosis_name": "正常嗓音",
+      "diagnosis_name_en": "Normal voice",
+      "age": 57,
+      "gender": "unknown",
+      "created_at": "2025-02-03",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-015",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 68,
+      "gender": "female",
+      "created_at": "2025-02-04",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-016",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 21,
+      "gender": "male",
+      "created_at": "2025-02-05",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-017",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 32,
+      "gender": "female",
+      "created_at": "2025-02-06",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-018",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 43,
+      "gender": "male",
+      "created_at": "2025-02-07",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-019",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 54,
+      "gender": "unknown",
+      "created_at": "2025-02-08",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-020",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 65,
+      "gender": "female",
+      "created_at": "2025-02-09",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-021",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 76,
+      "gender": "male",
+      "created_at": "2025-02-10",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-022",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 29,
+      "gender": "female",
+      "created_at": "2025-02-11",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-023",
+      "diagnosis_label": "polyp",
+      "diagnosis_name": "声带息肉",
+      "diagnosis_name_en": "Vocal fold polyp",
+      "age": 40,
+      "gender": "male",
+      "created_at": "2025-02-12",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-024",
+      "diagnosis_label": "nodule",
+      "diagnosis_name": "声带小结",
+      "diagnosis_name_en": "Vocal fold nodule",
+      "age": 51,
+      "gender": "unknown",
+      "created_at": "2025-03-01",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-025",
+      "diagnosis_label": "nodule",
+      "diagnosis_name": "声带小结",
+      "diagnosis_name_en": "Vocal fold nodule",
+      "age": 62,
+      "gender": "female",
+      "created_at": "2025-03-02",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-026",
+      "diagnosis_label": "nodule",
+      "diagnosis_name": "声带小结",
+      "diagnosis_name_en": "Vocal fold nodule",
+      "age": null,
+      "gender": "male",
+      "created_at": "2025-03-03",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-027",
+      "diagnosis_label": "nodule",
+      "diagnosis_name": "声带小结",
+      "diagnosis_name_en": "Vocal fold nodule",
+      "age": 26,
+      "gender": "female",
+      "created_at": "2025-03-04",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-028",
+      "diagnosis_label": "nodule",
+      "diagnosis_name": "声带小结",
+      "diagnosis_name_en": "Vocal fold nodule",
+      "age": 37,
+      "gender": "male",
+      "created_at": "2025-03-05",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-029",
+      "diagnosis_label": "nodule",
+      "diagnosis_name": "声带小结",
+      "diagnosis_name_en": "Vocal fold nodule",
+      "age": 48,
+      "gender": "unknown",
+      "created_at": "2025-03-06",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-030",
+      "diagnosis_label": "cyst",
+      "diagnosis_name": "声带囊肿",
+      "diagnosis_name_en": "Vocal fold cyst",
+      "age": 59,
+      "gender": "female",
+      "created_at": "2025-03-07",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-031",
+      "diagnosis_label": "cyst",
+      "diagnosis_name": "声带囊肿",
+      "diagnosis_name_en": "Vocal fold cyst",
+      "age": 70,
+      "gender": "male",
+      "created_at": "2025-03-08",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-032",
+      "diagnosis_label": "cyst",
+      "diagnosis_name": "声带囊肿",
+      "diagnosis_name_en": "Vocal fold cyst",
+      "age": 23,
+      "gender": "female",
+      "created_at": "2025-03-09",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-033",
+      "diagnosis_label": "cyst",
+      "diagnosis_name": "声带囊肿",
+      "diagnosis_name_en": "Vocal fold cyst",
+      "age": 34,
+      "gender": "male",
+      "created_at": "2025-03-10",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-034",
+      "diagnosis_label": "cyst",
+      "diagnosis_name": "声带囊肿",
+      "diagnosis_name_en": "Vocal fold cyst",
+      "age": 45,
+      "gender": "unknown",
+      "created_at": "2025-03-11",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-035",
+      "diagnosis_label": "edema",
+      "diagnosis_name": "声带水肿",
+      "diagnosis_name_en": "Vocal fold edema",
+      "age": 56,
+      "gender": "female",
+      "created_at": "2025-03-12",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-036",
+      "diagnosis_label": "edema",
+      "diagnosis_name": "声带水肿",
+      "diagnosis_name_en": "Vocal fold edema",
+      "age": 67,
+      "gender": "male",
+      "created_at": "2025-04-01",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-037",
+      "diagnosis_label": "edema",
+      "diagnosis_name": "声带水肿",
+      "diagnosis_name_en": "Vocal fold edema",
+      "age": 20,
+      "gender": "female",
+      "created_at": "2025-04-02",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-038",
+      "diagnosis_label": "edema",
+      "diagnosis_name": "声带水肿",
+      "diagnosis_name_en": "Vocal fold edema",
+      "age": 31,
+      "gender": "male",
+      "created_at": "2025-04-03",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-039",
+      "diagnosis_label": "paresis",
+      "diagnosis_name": "声带麻痹",
+      "diagnosis_name_en": "Vocal fold paralysis",
+      "age": null,
+      "gender": "unknown",
+      "created_at": "2025-04-04",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-040",
+      "diagnosis_label": "paresis",
+      "diagnosis_name": "声带麻痹",
+      "diagnosis_name_en": "Vocal fold paralysis",
+      "age": 53,
+      "gender": "female",
+      "created_at": "2025-04-05",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-041",
+      "diagnosis_label": "paresis",
+      "diagnosis_name": "声带麻痹",
+      "diagnosis_name_en": "Vocal fold paralysis",
+      "age": 64,
+      "gender": "male",
+      "created_at": "2025-04-06",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "voice_id": "DEMO-042",
+      "diagnosis_label": "other",
+      "diagnosis_name": "其他",
+      "diagnosis_name_en": "Other",
+      "age": 75,
+      "gender": "female",
+      "created_at": "2025-04-07",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "voice_id": "DEMO-043",
+      "diagnosis_label": "other",
+      "diagnosis_name": "其他",
+      "diagnosis_name_en": "Other",
+      "age": 28,
+      "gender": "male",
+      "created_at": "2025-04-08",
+      "audio_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label_code": "normal",
+      "label_name_cn": "正常嗓音",
+      "label_name_en": "Normal voice",
+      "case_count": 14
+    },
+    {
+      "label_code": "polyp",
+      "label_name_cn": "声带息肉",
+      "label_name_en": "Vocal fold polyp",
+      "case_count": 9
+    },
+    {
+      "label_code": "nodule",
+      "label_name_cn": "声带小结",
+      "label_name_en": "Vocal fold nodule",
+      "case_count": 6
+    },
+    {
+      "label_code": "cyst",
+      "label_name_cn": "声带囊肿",
+      "label_name_en": "Vocal fold cyst",
+      "case_count": 5
+    },
+    {
+      "label_code": "edema",
+      "label_name_cn": "声带水肿",
+      "label_name_en": "Vocal fold edema",
+      "case_count": 4
+    },
+    {
+      "label_code": "paresis",
+      "label_name_cn": "声带麻痹",
+      "label_name_en": "Vocal fold paralysis",
+      "case_count": 3
+    },
+    {
+      "label_code": "other",
+      "label_name_cn": "其他",
+      "label_name_en": "Other",
+      "case_count": 2
+    }
+  ],
+  "audio": [
+    {
+      "id": 1,
+      "vowel": "a",
+      "file_name": "synthetic-a.wav",
+      "url": "demo/synthetic-a.wav",
+      "sample_rate": 16000,
+      "duration_sec": 1,
+      "f0_mean_hz": 156,
+      "f0_std_hz": 0,
+      "quality_status": "unchecked"
+    },
+    {
+      "id": 2,
+      "vowel": "o",
+      "file_name": "synthetic-o.wav",
+      "url": "demo/synthetic-o.wav",
+      "sample_rate": 16000,
+      "duration_sec": 1,
+      "f0_mean_hz": 168,
+      "f0_std_hz": 0,
+      "quality_status": "unchecked"
+    },
+    {
+      "id": 3,
+      "vowel": "e",
+      "file_name": "synthetic-e.wav",
+      "url": "demo/synthetic-e.wav",
+      "sample_rate": 16000,
+      "duration_sec": 1,
+      "f0_mean_hz": 180,
+      "f0_std_hz": 0,
+      "quality_status": "unchecked"
+    },
+    {
+      "id": 4,
+      "vowel": "i",
+      "file_name": "synthetic-i.wav",
+      "url": "demo/synthetic-i.wav",
+      "sample_rate": 16000,
+      "duration_sec": 1,
+      "f0_mean_hz": 192,
+      "f0_std_hz": 0,
+      "quality_status": "unchecked"
+    },
+    {
+      "id": 5,
+      "vowel": "u",
+      "file_name": "synthetic-u.wav",
+      "url": "demo/synthetic-u.wav",
+      "sample_rate": 16000,
+      "duration_sec": 1,
+      "f0_mean_hz": 204,
+      "f0_std_hz": 0,
+      "quality_status": "unchecked"
+    },
+    {
+      "id": 6,
+      "vowel": "v",
+      "file_name": "synthetic-v.wav",
+      "url": "demo/synthetic-v.wav",
+      "sample_rate": 16000,
+      "duration_sec": 1,
+      "f0_mean_hz": 216,
+      "f0_std_hz": 0,
+      "quality_status": "unchecked"
+    }
+  ]
+}

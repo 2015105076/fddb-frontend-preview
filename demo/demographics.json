@@ -1,0 +1,186 @@
+{
+  "age_bands": [
+    "0–17",
+    "18–29",
+    "30–39",
+    "40–49",
+    "50–59",
+    "60–69",
+    "70+"
+  ],
+  "overall": {
+    "count": 43,
+    "age_counts": [
+      0,
+      8,
+      7,
+      6,
+      7,
+      7,
+      5
+    ],
+    "age_missing": 3,
+    "median_age": 48.5,
+    "gender_counts": {
+      "male": 18,
+      "female": 17,
+      "unknown": 8
+    }
+  },
+  "categories": [
+    {
+      "code": "normal",
+      "name": "正常嗓音",
+      "name_en": "Normal voice",
+      "count": 14,
+      "age_counts": [
+        0,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "age_missing": 1,
+      "median_age": 49,
+      "gender_counts": {
+        "male": 6,
+        "female": 5,
+        "unknown": 3
+      }
+    },
+    {
+      "code": "polyp",
+      "name": "声带息肉",
+      "name_en": "Vocal fold polyp",
+      "count": 9,
+      "age_counts": [
+        0,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "age_missing": 0,
+      "median_age": 43,
+      "gender_counts": {
+        "male": 4,
+        "female": 4,
+        "unknown": 1
+      }
+    },
+    {
+      "code": "nodule",
+      "name": "声带小结",
+      "name_en": "Vocal fold nodule",
+      "count": 6,
+      "age_counts": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "age_missing": 1,
+      "median_age": 48,
+      "gender_counts": {
+        "male": 2,
+        "female": 2,
+        "unknown": 2
+      }
+    },
+    {
+      "code": "cyst",
+      "name": "声带囊肿",
+      "name_en": "Vocal fold cyst",
+      "count": 5,
+      "age_counts": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "age_missing": 0,
+      "median_age": 45,
+      "gender_counts": {
+        "male": 2,
+        "female": 2,
+        "unknown": 1
+      }
+    },
+    {
+      "code": "edema",
+      "name": "声带水肿",
+      "name_en": "Vocal fold edema",
+      "count": 4,
+      "age_counts": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "age_missing": 0,
+      "median_age": null,
+      "gender_counts": {
+        "male": 2,
+        "female": 2,
+        "unknown": 0
+      }
+    },
+    {
+      "code": "paresis",
+      "name": "声带麻痹",
+      "name_en": "Vocal fold paralysis",
+      "count": 3,
+      "age_counts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "age_missing": 1,
+      "median_age": null,
+      "gender_counts": {
+        "male": 1,
+        "female": 1,
+        "unknown": 1
+      }
+    },
+    {
+      "code": "other",
+      "name": "其他",
+      "name_en": "Other",
+      "count": 2,
+      "age_counts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "age_missing": 0,
+      "median_age": null,
+      "gender_counts": {
+        "male": 1,
+        "female": 1,
+        "unknown": 0
+      }
+    }
+  ]
+}
